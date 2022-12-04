@@ -2,7 +2,7 @@
 DAY:sunday
 DATE:4th  dec 2022
 TOPIC:task
-AUTHOR:pooja
+AUTHOR:kiranmai
 '''
 #name_id_salary
 name=input('enter name:')
